@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/acme</item>
+        <item>@font/alegreya</item>
+        <item>@font/amiko_bold</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/bungee_hairline</item>
+        <item>@font/krona_one</item>
+    </array>
+</resources>

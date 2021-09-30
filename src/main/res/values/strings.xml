@@ -1,0 +1,231 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+
+    <string name="question_1">1. Who is the only Indian streamer to be nominated for Esports award of the year?</string>
+    <string name="option_1A">MortaL</string>
+    <string name="option_1B">Viper Gaming</string>
+    <string name="option_1C">Regaltos</string>
+    <string name="option_1D">V3nom</string>
+    <string name="answer_1">MortaL</string>
+
+
+    <string name="question_2">2. Who is the strongest Marvel character?</string>
+    <string name="option_2A">Thor</string>
+    <string name="option_2B">Wanda Maximoff</string>
+    <string name="option_2C">Thanos</string>
+    <string name="option_2D">Captain Marvel</string>
+    <string name="answer_2">Wanda Maximoff</string>
+
+    <string name="question_3">3. Who is the best Jett player in the world?</string>
+    <string name="option_3A">Tenz</string>
+    <string name="option_3B">Wardell</string>
+    <string name="option_3C">Inazuma</string>
+    <string name="option_3D">Shazam</string>
+    <string name="answer_3">Shazam</string>
+
+
+    <string name="question_4">4. Who is the weakest DC character?</string>
+    <string name="option_4A">wonder woman</string>
+    <string name="option_4B">flash</string>
+    <string name="option_4C">Cyborg</string>
+    <string name="option_4D">Batman</string>
+    <string name="answer_4">Batman</string>
+
+
+    <string name="question_5">5. Who is the No.1 Cricketer in the world?</string>
+    <string name="option_5A">Virat Kholi</string>
+    <string name="option_5B">Babar Azam</string>
+    <string name="option_5C">Ricky Ponting</string>
+    <string name="option_5D">Rohit Sharma</string>
+    <string name="answer_5">Virat Kholi</string>
+
+
+    <string name="question_6">6. Where is Taj Mahal situated in India?</string>
+    <string name="option_6A">Delhi</string>
+    <string name="option_6B">Bangalore</string>
+    <string name="option_6C">Agra</string>
+    <string name="option_6D">Allahabad</string>
+    <string name="answer_6">Agra</string>
+
+
+    <string name="question_7">7. Who is the highest paid actor of all time ?</string>
+    <string name="option_7A">Antonio Banderas</string>
+    <string name="option_7B">George Clooney</string>
+    <string name="option_7C">Harrison Ford</string>
+    <string name="option_7D">Robert Downey Jr.</string>
+    <string name="answer_7">Robert Downey Jr.</string>
+
+
+    <string name="question_8">8. Who is the highest paid actress of all time?</string>
+    <string name="option_8A">Kaley Cuoco</string>
+    <string name="option_8B">Jennifer lawrence</string>
+    <string name="option_8C">Mila Kunis </string>
+    <string name="option_8D">Emma Watson</string>
+    <string name="answer_8">Mila Kunis</string>
+
+    <string name="question_9">9. Who is the strongest Iron Man Armour ?</string>
+    <string name="option_9A">The HulkBuster</string>
+    <string name="option_9B">Mark L</string>
+    <string name="option_9C">Mark 42</string>
+    <string name="option_9D">Mark 45</string>
+    <string name="answer_9">Mark L</string>
+
+    <string name="question_10">10. By what year will there be no ozone?</string>
+    <string name="option_10A">2030</string>
+    <string name="option_10B">2050</string>
+    <string name="option_10C">2040</string>
+    <string name="option_10D">2060</string>
+    <string name="answer_10">2060</string>
+
+    <string name="question_11">1. What is the percentage of Nitrogen in the atmosphere?</string>
+    <string name="option_11A">32%</string>
+    <string name="option_11B">45%</string>
+    <string name="option_11C">80%</string>
+    <string name="option_11D">78%</string>
+    <string name="answer_11">78%</string>
+
+    <string name="question_12">2. Using what material is the tires of the Lunar Rover made?</string>
+    <string name="option_12A">Stainless Steel</string>
+    <string name="option_12B">Supra Titanium</string>
+    <string name="option_12C">Pure Iron</string>
+    <string name="option_12D">Carbon Fibre</string>
+    <string name="answer_12">Carbon Fibre</string>
+
+    <string name="question_13">3. How many Possible outcomes did Doctor Strange see in Infinity war?</string>
+    <string name="option_13A">300 million</string>
+    <string name="option_13B">20 million</string>
+    <string name="option_13C">14 million</string>
+    <string name="option_13D">4 million</string>
+    <string name="answer_13">14 million</string>
+
+    <string name="question_14">4. How many kills did MortaL have when he was the MVP in PMCO 2019?</string>
+    <string name="option_14A">3</string>
+    <string name="option_14B">5</string>
+    <string name="option_14C">6</string>
+    <string name="option_14D">9</string>
+    <string name="answer_14">5</string>
+
+    <string name="question_15">5. Who was the MVP of the Tournament in PMCO 2019?</string>
+    <string name="option_15A">Regaltos</string>
+    <string name="option_15B">ClutchGod</string>
+    <string name="option_15C">Aman</string>
+    <string name="option_15D">MortaL</string>
+    <string name="answer_15">Aman</string>
+
+    <string name="question_16">6. How many Blades does the Ultimate of Jett have?</string>
+    <string name="option_16A">3</string>
+    <string name="option_16B">5</string>
+    <string name="option_16C">6</string>
+    <string name="option_16D">10</string>
+    <string name="answer_16">5</string>
+
+    <string name="question_17">7. Which No is neither prime nor composite?</string>
+    <string name="option_17A">1</string>
+    <string name="option_17B">0</string>
+    <string name="option_17C">151</string>
+    <string name="option_17D">11</string>
+    <string name="answer_17">1</string>
+
+    <string name="question_18">8. Complete the Sentence"Where is Gamora?,Who is Gamora? -"</string>
+    <string name="option_18A">How is Gamora?</string>
+    <string name="option_18B">Gamora is Stupid</string>
+    <string name="option_18C">Why is Gamora?</string>
+    <string name="option_18D">Btw Why this question?</string>
+    <string name="answer_18">Why is Gamora?</string>
+
+    <string name="question_19">9. What is the chemical formula of Water?</string>
+    <string name="option_19A">H-2-O</string>
+    <string name="option_19B">H-0</string>
+    <string name="option_19C">H-O-2</string>
+    <string name="option_19D">H-2-O-@</string>
+    <string name="answer_19">H-2-O</string>
+
+    <string name="question_20">10. Initially how many aliens did Ben have in his Omnitrix?</string>
+    <string name="option_20A">20</string>
+    <string name="option_20B">15</string>
+    <string name="option_20C">11</string>
+    <string name="option_20D">10</string>
+    <string name="answer_20">10</string>
+
+    <string name="question_21">1. Who had the biggest appetite in Pandavas</string>
+    <string name="option_21A">Arjuna</string>
+    <string name="option_21B">Nakula</string>
+    <string name="option_21C">Bheema</string>
+    <string name="option_21D">Sahadeva</string>
+    <string name="answer_21">Bheema</string>
+
+    <string name="question_22">2. How many times did Thor fight Hulk in the MCU?</string>
+    <string name="option_22A">5</string>
+    <string name="option_22B">2</string>
+    <string name="option_22C">4</string>
+    <string name="option_22D">100</string>
+    <string name="answer_22">2</string>
+
+    <string name="question_23">3. What position did Team SouL come in PMCO 2019?</string>
+    <string name="option_23A">6th</string>
+    <string name="option_23B">1st</string>
+    <string name="option_23C">2nd</string>
+    <string name="option_23D">5th</string>
+    <string name="answer_23">2nd</string>
+
+    <string name="question_24">4. Which is the most expensive diamond in the whole world?</string>
+    <string name="option_24A">Kohinoor Daimond</string>
+    <string name="option_24B">Caesar\'s topaz</string>
+    <string name="option_24C">Egyptian Emerald</string>
+    <string name="option_24D">Norweighnian BigStar</string>
+    <string name="answer_24">Kohinoor Daimond</string>
+
+    <string name="question_25">5. By what year will there be no fossil fuels?</string>
+    <string name="option_25A">2030</string>
+    <string name="option_25B">2050</string>
+    <string name="option_25C">2040</string>
+    <string name="option_25D">2060</string>
+    <string name="answer_25">2050</string>
+
+    <string name="question_26">6. What is the highest no of kills by team SouL in scrims?</string>
+    <string name="option_26A">22</string>
+    <string name="option_26B">24</string>
+    <string name="option_26C">21</string>
+    <string name="option_26D">26</string>
+    <string name="answer_26">26</string>
+
+    <string name="question_27">7. What is Viper\'s Role in team SouL?</string>
+    <string name="option_27A">IGL</string>
+    <string name="option_27B">Primary Assaulter</string>
+    <string name="option_27C">DMR Specialist</string>
+    <string name="option_27D">Support Specialist</string>
+    <string name="answer_27">Support Specialist</string>
+
+    <string name="question_28">8. How many Aces did RaGeGoD27 get in the time he played Valorant?</string>
+    <string name="option_28A">Less than 10</string>
+    <string name="option_28B">more than 10</string>
+    <string name="option_28C">none</string>
+    <string name="option_28D">exactly 10</string>
+    <string name="answer_28">exactly 10</string>
+
+    <string name="question_29">9. Which has the vegetable/fruit has the highest water content?</string>
+    <string name="option_29A">Cucumber</string>
+    <string name="option_29B">Watermelon</string>
+    <string name="option_29C">Coconut</string>
+    <string name="option_29D">Apple</string>
+    <string name="answer_29">Cucumber</string>
+
+    <string name="question_30">10. How many days did Mavi take to reach a million subs from 900k on Youtube?</string>
+    <string name="option_30A">15</string>
+    <string name="option_30B">5</string>
+    <string name="option_30C">9</string>
+    <string name="option_30D">8</string>
+    <string name="answer_30">5</string>
+
+
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
